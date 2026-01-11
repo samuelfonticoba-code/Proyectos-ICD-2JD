@@ -1,0 +1,743 @@
+[
+{"Mipyme":{
+
+"Lugar(importancia)":"Poca relevancia(Cercanias de Centro Escolar)",
+"temporadas de ventas":"Poca variacion por temporadas(invariabilidad)",
+"servicios":"Domicilio",
+"abastecimiento":"Compra a terceros ",
+"problemas en venta":"(no resporta)",
+"horario":"10:00 am, 10:00 pm",
+"publicidad":"no",
+"productos de venta(analizados)":{
+    "azucar":602,
+    "pure":370,
+    "arroz":2900,
+    "frijoles negros":1200,
+    "huevo":950,
+    "picadillo":300,
+    "pollo":400,
+    "leche":220,
+    "higado":810,
+    "aceite":650
+},
+"productos lideres":"cigarro,resfrescos,picadillo",
+"ubicacion":""
+}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"(sin relevancia)",
+"temporadas de ventas":"no",
+"servicios":"no",
+"abastecimiento":"dependiente",
+"problemas en venta":"(no resporta)",
+"horario":"24/7",
+"publicidad":"no",
+"productos de venta(analizados)":{
+    "azucar":700,
+    "pure":450,
+    "arroz":900,
+    "frijoles negros":1000,
+    "huevo":3300,
+    "picadillo":300,
+    "pollo":1000,
+    "leche":1675,
+    "higado":60,
+    "aceite":1
+},
+"productos lideres":"",
+"ubicacion":""
+}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":650,
+    "pure":700,
+    "arroz":750,
+    "frijoles negros":950,
+    "huevo":0,
+    "picadillo":1100,
+    "pollo":4000,
+    "leche":0,
+    "higado":900,
+    "aceite":1100
+},
+"productos lideres":"",
+"ubicacion":""
+}},
+
+
+{"Mipyme":{
+
+"Lugar(importancia)":"no",
+"temporadas de ventas":"verano",
+"servicios":"no",
+"abastecimiento":"propio",
+"problemas en venta":"no",
+"horario":"24/7",
+"publicidad":"no",
+"productos de venta(analizados)":{
+    "azucar":300,
+    "pure":550,
+    "arroz":280,
+    "frijoles negros":1200,
+    "huevo":3000,
+    "picadillo":500,
+    "pollo":4000,
+    "leche":750,
+    "higado":850,
+    "aceite":1100
+},
+"productos lideres":"",
+"ubicacion":""
+}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"no",
+"temporadas de ventas":"irregular ",
+"servicios":"no",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"24/7",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":270,
+    "pure":550,
+    "arroz":280,
+    "frijoles negros":240,
+    "huevo":3000,
+    "picadillo":290,
+    "pollo":3700,
+    "leche":1650,
+    "higado":0,
+    "aceite":990
+},
+"productos lideres":"",
+"ubicacion":""
+}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":750,
+    "pure":500,
+    "arroz":750,
+    "frijoles negros":1000,
+    "huevo":3300,
+    "picadillo":330,
+    "pollo":4100,
+    "leche":1675,
+    "higado":1000,
+    "aceite":1100
+},
+"productos lideres":"",
+"ubicacion":""
+}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"(sin relevancia)",
+"temporadas de ventas":"Julio Agosto",
+"servicios":"no",
+"abastecimiento":"dependiente",
+"problemas en venta":"no",
+"horario":"24/7",
+"publicidad":"no",
+"productos de venta(analizados)":{
+    "azucar":770,
+    "pure":450,
+    "arroz":540,
+    "frijoles negros":1000,
+    "huevo":3000,
+    "picadillo":400,
+    "pollo":0,
+    "leche":750,
+    "higado":0,
+    "aceite":1150
+
+},
+"productos lideres":"",
+"ubicacion":""
+}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"(sin relevancia)",
+"temporadas de ventas":"Poca variacion por temporadas(invariabilidad)",
+"servicios":"Domicilio",
+"abastecimiento":"dependiente",
+"problemas en venta":"no",
+"horario":"24/7",
+"publicidad":"pagina de instagram",
+"productos de venta(analizados)":{
+    "azucar":780,
+    "pure":650,
+    "arroz":750,
+    "frijoles negros":900,
+    "huevo":3200,
+    "picadillo":345,
+    "pollo":4200,
+    "leche":1600,
+    "higado":920,
+    "aceite":1100
+},
+"productos lideres":"",
+"ubicacion":""
+}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":750,
+    "pure":450,
+    "arroz":800,
+    "frijoles negros":900,
+    "huevo":3100,
+    "picadillo":360,
+    "pollo":4200,
+    "leche":1675,
+    "higado":1050,
+    "aceite":890
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":650,
+    "pure":700,
+    "arroz":750,
+    "frijoles negros":950,
+    "huevo":0,
+    "picadillo":500,
+    "pollo":4000,
+    "leche":0,
+    "higado":900,
+    "aceite":1100
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":0,
+    "pure":700,
+    "arroz":750,
+    "frijoles negros":900,
+    "huevo":3300,
+    "picadillo":360,
+    "pollo":4000,
+    "leche":0,
+    "higado":900,
+    "aceite":940
+
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":680,
+    "pure":340,
+    "arroz":700,
+    "frijoles negros":850,
+    "huevo":3150,
+    "picadillo":300,
+    "pollo":4600,
+    "leche":1675,
+    "higado":840,
+    "aceite":900
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":650,
+    "pure":450,
+    "arroz":700,
+    "frijoles negros":900,
+    "huevo":2600,
+    "picadillo":600,
+    "pollo":4000,
+    "leche":1600,
+    "higado":850,
+    "aceite":990
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":790,
+    "pure":400,
+    "arroz":900,
+    "frijoles negros":860,
+    "huevo":3000,
+    "picadillo":550,
+    "pollo":5500,
+    "leche":1675,
+    "higado":950,
+    "aceite":1100
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":590,
+    "pure":325,
+    "arroz":750,
+    "frijoles negros":815,
+    "huevo":2700,
+    "picadillo":550,
+    "pollo":3500,
+    "leche":1700,
+    "higado":720,
+    "aceite":1000
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":740,
+    "pure":520,
+    "arroz":660,
+    "frijoles negros":1060,
+    "huevo":3500,
+    "picadillo":620,
+    "pollo":3100,
+    "leche":1200,
+    "higado":1050,
+    "aceite":880
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":1140,
+    "pure":820,
+    "arroz":890,
+    "frijoles negros":650,
+    "huevo":3000,
+    "picadillo":1340,
+    "pollo":3410,
+    "leche":3400,
+    "higado":1140,
+    "aceite":890
+
+
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":780,
+    "pure":540,
+    "arroz":680,
+    "frijoles negros":1100,
+    "huevo":3500,
+    "picadillo":900,
+    "pollo":5800,
+    "leche":1700,
+    "higado":970,
+    "aceite":1200
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":900,
+    "pure":450,
+    "arroz":700,
+    "frijoles negros":1450,
+    "huevo":3600,
+    "picadillo":350,
+    "pollo":0,
+    "leche":770,
+    "higado":0,
+    "aceite":850
+
+
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":0,
+    "pure":450,
+    "arroz":650,
+    "frijoles negros":850,
+    "huevo":3000,
+    "picadillo":310,
+    "pollo":3200,
+    "leche":1675,
+    "higado":900,
+    "aceite":990
+
+
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":600,
+    "pure":550,
+    "arroz":350,
+    "frijoles negros":0,
+    "huevo":3000,
+    "picadillo":350,
+    "pollo":5000,
+    "leche":1300,
+    "higado":800,
+    "aceite":950
+
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":790,
+    "pure":400,
+    "arroz":760,
+    "frijoles negros":1100,
+    "huevo":3000,
+    "picadillo":450,
+    "pollo":2480,
+    "leche":1670,
+    "higado":850,
+    "aceite":990
+
+
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":790,
+    "pure":450,
+    "arroz":760,
+    "frijoles negros":650,
+    "huevo":3000,
+    "picadillo":1080,
+    "pollo":4500,
+    "leche":1500,
+    "higado":1140,
+    "aceite":890
+
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":890,
+    "pure":700,
+    "arroz":800,
+    "frijoles negros":900,
+    "huevo":3450,
+    "picadillo":650,
+    "pollo":4500,
+    "leche":1700,
+    "higado":960,
+    "aceite":1800
+
+
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":650,
+    "pure":450,
+    "arroz":700,
+    "frijoles negros":860,
+    "huevo":3200,
+    "picadillo":360,
+    "pollo":4600,
+    "leche":1200,
+    "higado":1000,
+    "aceite":1200
+
+
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":510,
+    "pure":350,
+    "arroz":780,
+    "frijoles negros":1200,
+    "huevo":3000,
+    "picadillo":450,
+    "pollo":4100,
+    "leche":1500,
+    "higado":850,
+    "aceite":1100
+
+
+}}},
+
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":650,
+    "pure":500,
+    "arroz":720,
+    "frijoles negros":900,
+    "huevo":2800,
+    "picadillo":450,
+    "pollo":4100,
+    "leche":1675,
+    "higado":900,
+    "aceite":1100
+
+
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":650,
+    "pure":350,
+    "arroz":700,
+    "frijoles negros":800,
+    "huevo":2900,
+    "picadillo":400,
+    "pollo":3700,
+    "leche":1400,
+    "higado":900,
+    "aceite":900
+
+
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":650,
+    "pure":390,
+    "arroz":750,
+    "frijoles negros":1200,
+    "huevo":3400,
+    "picadillo":450,
+    "pollo":3600,
+    "leche":1200,
+    "higado":800,
+    "aceite":990
+
+
+}}},
+
+{"Mipyme":{
+
+
+"Lugar(importancia)":"",
+"temporadas de ventas":"",
+"servicios":"",
+"abastecimiento":"",
+"problemas en venta":"",
+"horario":"",
+"publicidad":"",
+"productos de venta(analizados)":{
+    "azucar":800,
+    "pure":550,
+    "arroz":700,
+    "frijoles negros":1000,
+    "huevo":2900,
+    "picadillo":450,
+    "pollo":4050,
+    "leche":1670,
+    "higado":850,
+    "aceite":1100
+
+
+
+}}}] 
+
+
