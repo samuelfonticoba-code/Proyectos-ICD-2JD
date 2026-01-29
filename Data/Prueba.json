@@ -1,13 +1,26 @@
-[
-{"Mipyme":{
+{"datos":{
+  "configuracion_estudio": {
+    "meta_diaria_proteina_g": 75,
+    "limite_diario_carbos_g": 250
+},
 
-"Lugar(importancia)":"Poca relevancia(Cercanias de Centro Escolar)",
-"temporadas de ventas":"Poca variacion por temporadas(invariabilidad)",
-"servicios":"Domicilio",
-"abastecimiento":"Compra a terceros ",
-"problemas en venta":"(no resporta)",
-"horario":"10:00 am, 10:00 pm",
-"publicidad":"no",
+ "datos_tecnicos": {
+    "azucar": {"venta_g": 1000, "prot_100g": 0.0, "carb_100g": 100.0, "porcion_g": 10},
+    "pure": {"venta_g": 400, "prot_100g": 1.5, "carb_100g": 4.0, "porcion_g": 30},
+    "arroz": {"venta_g": 1000, "prot_100g": 2.7, "carb_100g": 28.0, "porcion_g": 150},
+    "frijoles negros": {"venta_g": 1000, "prot_100g": 21.0, "carb_100g": 60.0, "porcion_g": 100},
+    "huevo": {"venta_g": 1500, "prot_100g": 12.6, "carb_100g": 0.7, "porcion_g": 50},
+    "picadillo": {"venta_g": 460, "prot_100g": 18.0, "carb_100g": 0.0, "porcion_g": 100},
+    "pollo": {"venta_g": 4000, "prot_100g": 27.0, "carb_100g": 0.0, "porcion_g": 150},
+    "leche": {"venta_g": 1000, "prot_100g": 26.0, "carb_100g": 38.0, "porcion_g": 200},
+    "higado": {"venta_g": 1000, "prot_100g": 20.0, "carb_100g": 4.0, "porcion_g": 100},
+    "aceite": {"venta_g": 920, "prot_100g": 0.0, "carb_100g": 0.0, "porcion_g": 15}
+},
+
+
+"precios_Mipymes":[
+
+{"Mipyme":{
 "productos de venta(analizados)":{
     "azucar":602,
     "pure":370,
@@ -19,21 +32,9 @@
     "leche":220,
     "higado":810,
     "aceite":650
-},
-"productos lideres":"cigarro,resfrescos,picadillo",
-"ubicacion":""
+}
 }},
-
 {"Mipyme":{
-
-
-"Lugar(importancia)":"(sin relevancia)",
-"temporadas de ventas":"no",
-"servicios":"no",
-"abastecimiento":"dependiente",
-"problemas en venta":"(no resporta)",
-"horario":"24/7",
-"publicidad":"no",
 "productos de venta(analizados)":{
     "azucar":700,
     "pure":450,
@@ -43,23 +44,12 @@
     "picadillo":300,
     "pollo":1000,
     "leche":1675,
-    "higado":60,
+    "higado":600,
     "aceite":1
-},
-"productos lideres":"",
-"ubicacion":""
+}
 }},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":650,
     "pure":700,
@@ -71,21 +61,11 @@
     "leche":0,
     "higado":900,
     "aceite":1100
-},
-"productos lideres":"",
-"ubicacion":""
+}
 }},
 
 
 {"Mipyme":{
-
-"Lugar(importancia)":"no",
-"temporadas de ventas":"verano",
-"servicios":"no",
-"abastecimiento":"propio",
-"problemas en venta":"no",
-"horario":"24/7",
-"publicidad":"no",
 "productos de venta(analizados)":{
     "azucar":300,
     "pure":550,
@@ -97,21 +77,10 @@
     "leche":750,
     "higado":850,
     "aceite":1100
-},
-"productos lideres":"",
-"ubicacion":""
+}
 }},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"no",
-"temporadas de ventas":"irregular ",
-"servicios":"no",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"24/7",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":270,
     "pure":550,
@@ -123,21 +92,10 @@
     "leche":1650,
     "higado":0,
     "aceite":990
-},
-"productos lideres":"",
-"ubicacion":""
+}
 }},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":750,
     "pure":500,
@@ -149,21 +107,10 @@
     "leche":1675,
     "higado":1000,
     "aceite":1100
-},
-"productos lideres":"",
-"ubicacion":""
+}
 }},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"(sin relevancia)",
-"temporadas de ventas":"Julio Agosto",
-"servicios":"no",
-"abastecimiento":"dependiente",
-"problemas en venta":"no",
-"horario":"24/7",
-"publicidad":"no",
 "productos de venta(analizados)":{
     "azucar":770,
     "pure":450,
@@ -176,21 +123,10 @@
     "higado":0,
     "aceite":1150
 
-},
-"productos lideres":"",
-"ubicacion":""
+}
 }},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"(sin relevancia)",
-"temporadas de ventas":"Poca variacion por temporadas(invariabilidad)",
-"servicios":"Domicilio",
-"abastecimiento":"dependiente",
-"problemas en venta":"no",
-"horario":"24/7",
-"publicidad":"pagina de instagram",
 "productos de venta(analizados)":{
     "azucar":780,
     "pure":650,
@@ -202,21 +138,10 @@
     "leche":1600,
     "higado":920,
     "aceite":1100
-},
-"productos lideres":"",
-"ubicacion":""
+}
 }},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":750,
     "pure":450,
@@ -228,18 +153,10 @@
     "leche":1675,
     "higado":1050,
     "aceite":890
-}}},
+}
+}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":650,
     "pure":700,
@@ -251,18 +168,10 @@
     "leche":0,
     "higado":900,
     "aceite":1100
-}}},
+}
+}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":0,
     "pure":700,
@@ -275,18 +184,10 @@
     "higado":900,
     "aceite":940
 
-}}},
+}
+}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":680,
     "pure":340,
@@ -298,18 +199,10 @@
     "leche":1675,
     "higado":840,
     "aceite":900
-}}},
+}
+}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":650,
     "pure":450,
@@ -321,18 +214,10 @@
     "leche":1600,
     "higado":850,
     "aceite":990
-}}},
+}
+}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":790,
     "pure":400,
@@ -344,18 +229,10 @@
     "leche":1675,
     "higado":950,
     "aceite":1100
-}}},
+}
+}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":590,
     "pure":325,
@@ -367,18 +244,10 @@
     "leche":1700,
     "higado":720,
     "aceite":1000
-}}},
+}
+}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":740,
     "pure":520,
@@ -390,18 +259,10 @@
     "leche":1200,
     "higado":1050,
     "aceite":880
-}}},
+}
+}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":1140,
     "pure":820,
@@ -415,18 +276,10 @@
     "aceite":890
 
 
-}}},
+}
+}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":780,
     "pure":540,
@@ -438,18 +291,10 @@
     "leche":1700,
     "higado":970,
     "aceite":1200
-}}},
+}
+}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":900,
     "pure":450,
@@ -461,20 +306,10 @@
     "leche":770,
     "higado":0,
     "aceite":850
-
-
-}}},
+}
+}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":0,
     "pure":450,
@@ -486,20 +321,10 @@
     "leche":1675,
     "higado":900,
     "aceite":990
-
-
-}}},
+}
+}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":600,
     "pure":550,
@@ -511,19 +336,10 @@
     "leche":1300,
     "higado":800,
     "aceite":950
-
-}}},
+}
+}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":790,
     "pure":400,
@@ -540,15 +356,6 @@
 }}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":790,
     "pure":450,
@@ -564,15 +371,6 @@
 }}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":890,
     "pure":700,
@@ -589,15 +387,6 @@
 }}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":650,
     "pure":450,
@@ -609,20 +398,10 @@
     "leche":1200,
     "higado":1000,
     "aceite":1200
-
-
-}}},
+}
+}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":510,
     "pure":350,
@@ -634,21 +413,11 @@
     "leche":1500,
     "higado":850,
     "aceite":1100
-
-
-}}},
+}
+}},
 
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":650,
     "pure":500,
@@ -661,19 +430,9 @@
     "higado":900,
     "aceite":1100
 
-
 }}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":650,
     "pure":350,
@@ -685,20 +444,9 @@
     "leche":1400,
     "higado":900,
     "aceite":900
-
-
 }}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":650,
     "pure":390,
@@ -710,20 +458,10 @@
     "leche":1200,
     "higado":800,
     "aceite":990
-
-
-}}},
+}
+}},
 
 {"Mipyme":{
-
-
-"Lugar(importancia)":"",
-"temporadas de ventas":"",
-"servicios":"",
-"abastecimiento":"",
-"problemas en venta":"",
-"horario":"",
-"publicidad":"",
 "productos de venta(analizados)":{
     "azucar":800,
     "pure":550,
@@ -735,9 +473,4 @@
     "leche":1670,
     "higado":850,
     "aceite":1100
-
-
-
-}}}] 
-
-
+}}}]}}
